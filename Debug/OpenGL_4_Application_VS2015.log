@@ -1,0 +1,19 @@
+﻿  OpenGL_4_Application_VS2015.cpp
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(169): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(170): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(301): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(305): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(317): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(321): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(325): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(335): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\projektek\year3\gps\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(346): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGL_4_Application_VS2015.vcxproj -> D:\projektek\YEAR3\GPS\project\OpenGL_4_Application_VS2015\Debug\OpenGL_4_Application_VS2015.exe
